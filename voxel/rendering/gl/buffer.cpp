@@ -1,4 +1,6 @@
 #include "buffer.h"
+
+#define GL_VERSION_4_6
 #include <glad/glad.h>
 
 gl::Vertex::Vertex(glm::vec3 pos, glm::vec3 coord)

@@ -1,4 +1,6 @@
 #include "context.h"
+
+#define GL_VERSION_4_6
 #include <glad/glad.h>
 
 const string gl::gl_version()

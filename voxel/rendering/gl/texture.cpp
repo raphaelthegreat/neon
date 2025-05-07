@@ -1,6 +1,8 @@
 #include "texture.h"
 #include <iostream>
 #include "shader.h"
+
+#define GL_VERSION_4_6
 #include <glad/glad.h>
 #include "stb_image.h"
 

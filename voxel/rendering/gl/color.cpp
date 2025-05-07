@@ -1,4 +1,6 @@
 #include "color.h"
+
+#define GL_VERSION_4_6
 #include <glad/glad.h>
 
 Color::Color(float r, float g, float b, float a)
