@@ -3,7 +3,7 @@
 #include <iostream>
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
-#include "stb_image.h"
+#include <rendering/gl/stb_image.h>
 
 int Window::_height = 800;
 int Window::_width = 600;

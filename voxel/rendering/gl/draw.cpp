@@ -2,6 +2,8 @@
 #include "buffer.h"
 #include "shader.h"
 #include <iostream>
+
+#define GL_VERSION_4_6
 #include <glad/glad.h>
 
 void gl::draw_buffer(int vert_count)
